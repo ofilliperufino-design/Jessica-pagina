@@ -1,0 +1,5 @@
+{
+  "rewrites": [
+    { "source": "/play-vsl-jessica", "destination": "/index.html" }
+  ]
+}
