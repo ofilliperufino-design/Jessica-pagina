@@ -1,5 +1,16 @@
 {
   "rewrites": [
-    { "source": "/play-vsl-jessica", "destination": "/index.html" }
+    {
+      "source": "/play-vsl-jessica",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/jessica-14-10",
+      "destination": "/index.html"
+    },
+    {
+      "source": "/jessica-play-14-10",
+      "destination": "/index.html"
+    }
   ]
 }
